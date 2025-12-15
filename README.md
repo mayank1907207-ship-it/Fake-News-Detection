@@ -60,3 +60,5 @@ These datasets are used to train the model.
 1. Install required libraries:
 ```bash
 pip install -r requirements.txt
+
+Live Demo: https://fakenewspakde.streamlit.app/
